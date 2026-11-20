@@ -1,0 +1,3 @@
+Feature branch demonstration
+
+This file was added on feature/github-ui-branch-demo to show a branch-specific change. It appears on main only after the pull request is merged.
